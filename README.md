@@ -1,2 +1,5 @@
 # hello-world
-first repository!
+
+Hello world!
+
+My name is Aleah - an information analytics, neuroscience, and psychology student at CU Boulder.
